@@ -6,7 +6,7 @@
 [![wonderful.dev](https://img.shields.io/badge/wonderful.dev-@pro382r-ff00a7)](https://wonderful.dev/pro382r)
 [![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
 
-# 🖤
+## 🖤
 ### ●⬤⚫⬤●
 ### ●⬤⚫⬤●●⬤⚫⬤●
 ### ꧁♞ད⸻ཌ♞꧂
@@ -16,7 +16,7 @@
 ### ꧁♞ད⸻ཌ♞꧂
 ### ●⬤⚫⬤●●⬤⚫⬤●
 ### ●⬤⚫⬤●
-# 🖤
+## 🖤
 
 
 
